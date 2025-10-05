@@ -1,6 +1,6 @@
 Privacy Policy
 
-This privacy policy applies to the Photo Exchange app for mobile devices that was created by YYes Lab as a Free service.
+This privacy policy applies to the Photo Exchange app for mobile devices that was created by Y-Yes Lab as a Free service.
 
 ---
 
