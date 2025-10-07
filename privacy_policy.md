@@ -9,7 +9,7 @@ Information Collection and Use
 The Application only uses the following permissions in order to provide its core functionality:
 
 - Camera access: to allow you to take pictures for text recognition.
-- Photo library / storage access: to allow you to select existing photos from your device.
+- Photo library / storage access: to allow you to select existing photos from your device for text recognition.
 - Network access: to connect to the backend API over HTTPS in order to retrieve exchange rates.
 
 The Application does not collect precise location data, personal identifiers, or any other sensitive personal information.  
